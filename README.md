@@ -85,5 +85,5 @@ Abre tu navegador y visita la URL que se muestra en la terminal (usualmente `htt
 
 ## Notas adicionales
 
-- Si tienes problemas para abrir Docker Desktop, búscalo en la barra de búsqueda de Windows o en el icono de la ballena en la barra de tareas (junto al reloj).
+- Si tienes problemas para abrir Docker Desktop, búscalo en la barra de búsqueda de Windows o en la barra de tareas busca un icono de una flechita(junto al reloj) y luego busca un icono de ballena.
 - Asegúrate de que Docker Desktop esté en ejecución antes de intentar construir o ejecutar contenedores.
